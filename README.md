@@ -14,8 +14,7 @@ Small pharmacies often keep stock and bills on paper. This leads to calculation 
 - Safe input: typing letters instead of numbers does not crash the program
 
 ## Sample Bill
-========== CUSTOMER BILL ==========
-
+<pre>========== CUSTOMER BILL ==========
 Medicine Name : Paracetamol
 Quantity      : 5
 Price         : Rs.20.0
@@ -24,7 +23,7 @@ Amount        : Rs.90.0
 GST (12%)     : Rs.10.8
 -----------------------------------
 Total Bill    : Rs.100.8
-===================================
+===================================</pre>
 ## Concepts Used
 Static methods, method overloading (calculateBill), ArrayList, loops, switch case, validation using if-else, and exception handling (try-catch).
 
