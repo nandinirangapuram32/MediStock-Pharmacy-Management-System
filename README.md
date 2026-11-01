@@ -15,6 +15,7 @@ Small pharmacies often keep stock and bills on paper. This leads to calculation 
 
 ## Sample Bill
 ========== CUSTOMER BILL ==========
+
 Medicine Name : Paracetamol
 Quantity      : 5
 Price         : Rs.20.0
